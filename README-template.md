@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-DESKTOP
-MOBILE
+![image](https://github.com/bonniemira/whatevenisthiscardfor/assets/124724575/a2a8f280-94f4-4285-a7f8-7d66fb788768)
+![_C__Users_Nadia_Documents_Nadia%20Code%20Projects_Purple%20Challenge_index html(iPhone SE)](https://github.com/bonniemira/whatevenisthiscardfor/assets/124724575/a70456cc-c010-48bf-a18b-5fb97417a523)
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/you-can-dye-eggs-purple-like-this-card-v4DV_gMqEX
+- Live Site URL: https://bonniemira.github.io/whatevenisthiscardfor/
 
 ## My process
 
