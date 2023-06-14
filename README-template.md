@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![image](https://github.com/bonniemira/whatevenisthiscardfor/assets/124724575/a6fe273a-161b-4c27-a79e-51e0da18da5c)
-(https://github.com/bonniemira/whatevenisthiscardfor/assets/124724575/a70456cc-c010-48bf-a18b-5fb97417a523)
+![image](https://github.com/bonniemira/whatevenisthiscardfor/assets/124724575/480183a1-6ed5-4a04-bcad-7faf6b7997c2)
 
 ### Links
 
